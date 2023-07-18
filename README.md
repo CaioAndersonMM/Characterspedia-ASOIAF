@@ -1,6 +1,8 @@
 # Characterspedia-ASOIAF
 Um website simples que exibe informações sobre alguns personagens da série Game of Thrones, e do universo ASOIAF. Nele, os fãs podem explorar detalhes interessantes sobre seus personagens favoritos, como biografia, família, casa, entre outros.
 
+* Esse projeto foi baseado nos irmãos do canal DEV EM DOBRO.
+
 ## Funcionalidades
 - Exibição dos personagens em uma lista organizada.
 - Detalhes do personagem, incluindo nome, retrato, descrição, família, casa, entre outros.
