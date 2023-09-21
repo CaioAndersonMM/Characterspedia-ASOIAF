@@ -82,7 +82,8 @@ body::before{
     margin-left: 20px;
 }
 .personagem-selecionado .imagem-personagem{
-    width: 130px;
+    width: 400px;
+    height: 500px;
 }
 .personagem-selecionado .nome-personagem{
     border-bottom: 4px solid #604d00;
@@ -101,7 +102,7 @@ body::before{
 .personagem-selecionado .descricao-personagem{
     font-size: 20px;
     line-height: 22px;
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
     width: 420px;
 }
