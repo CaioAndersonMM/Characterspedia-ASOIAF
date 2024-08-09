@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/46e1ffc3-b013-4c77-8ec6-03133f04ffc9)
+
+
 # Characterspedia-ASOIAF
 Um website simples que exibe informações sobre alguns personagens da série Game of Thrones, e do universo ASOIAF. Nele, os fãs podem explorar detalhes interessantes sobre seus personagens favoritos, como biografia, família, casa, entre outros.
 
